@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/FlipClip/fluttershare-master/build/location_permissions/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/92b971fd08307cefbfa1119af2191c4b/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/FlipClip/fluttershare-master/build/location_permissions/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/92b971fd08307cefbfa1119af2191c4b/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/FlipClip/fluttershare-master/build/location_permissions/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/92b971fd08307cefbfa1119af2191c4b/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/FlipClip/fluttershare-master/build/location_permissions/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/92b971fd08307cefbfa1119af2191c4b/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/FlipClip/fluttershare-master/build/location_permissions/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/92b971fd08307cefbfa1119af2191c4b/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]

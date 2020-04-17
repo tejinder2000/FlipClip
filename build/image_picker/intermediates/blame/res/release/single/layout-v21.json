@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/FlipClip/fluttershare-master/build/image_picker/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/804e74bda62a55e31e1cf579efa3ce1b/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/FlipClip/fluttershare-master/build/image_picker/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/804e74bda62a55e31e1cf579efa3ce1b/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/FlipClip/fluttershare-master/build/image_picker/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/804e74bda62a55e31e1cf579efa3ce1b/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/FlipClip/fluttershare-master/build/image_picker/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/804e74bda62a55e31e1cf579efa3ce1b/res/layout-v21/notification_action.xml"
+    }
+]
